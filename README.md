@@ -1,0 +1,2 @@
+# voice emotion detection system
+This system analyzes human voice input to detect emotional states such as happiness, sadness, anger, and neutrality. Built using machine learning and signal processing techniques, it extracts audio features (like pitch, tone, and energy) and classifies emotions in real time. The application can be integrated into call centers, virtual assistants, or mental health platforms to enhance user experience and emotional intelligence in human-computer interactions.
